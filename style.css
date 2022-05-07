@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@500&display=swap");
+
+.mission {
+  min-height: 50vh;
+  width: 100%;
+  background-color: aquamarine;
+}
+.about {
+  min-height: 50vh;
+  width: 100%;
+  background-color: mediumorchid;
+}
