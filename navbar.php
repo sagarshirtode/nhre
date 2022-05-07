@@ -28,7 +28,7 @@ background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav" style="margin: auto;">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="./index.php">About us</a>
+            <a class="nav-link active" aria-current="page" href="./index.php">About NHRE</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="./gallary.php">Gallary</a>
